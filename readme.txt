@@ -1,4 +1,4 @@
-Read Me
+# Instructions
 
 Files:   LinkedList.cpp, test.cpp and linked_list
 Author: Andrea Silvestro Ortino
